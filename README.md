@@ -23,3 +23,15 @@ IMPLEMENTATION STEPS
 - Step 4.1: ENTER COMMAND: py Gender.py --image <name.jpg> AND PRESS ENTER
 - Step 5: TO LAUNCH GENDER IDENTIFICATION VIA WEBCAM, TYPE THE COMMAND py Gender.py or click on the program run button in the right corner of the Visual Studio Code screen
 - Step 5.1: TO TURN OFF WEBCAM IDENTIFICATION, PRESS Q
+
+
+![Flowchart](https://github.com/LeVoHoangThong/Gender-detection/assets/116576158/969d4ca8-e8ac-43b6-8995-36321fa06839)
+
+Example: Detection from webcam
+![Thongwebcam](https://github.com/LeVoHoangThong/Gender-detection/assets/116576158/34d54a77-f5f5-4e72-bb34-2a6b5593067b)
+
+
+Example: Detection from picture
+![Screenshot 2023-11-15 231321](https://github.com/LeVoHoangThong/Gender-detection/assets/116576158/08b8249c-cc06-4521-abc6-5ab695a226db)
+
+
